@@ -1,2 +1,2 @@
-# NN_codes_TF
+# NN_Implements_Tensorflow
 Neural Nets' implementations with Tensorflow
